@@ -1,6 +1,7 @@
+@import '../libs/btn/anim-menu-btn.css';
+
 @import '../css/vars.css';
 @import '../css/grid.css';
-@import '../libs/btn/anim-menu-btn.css';
 
 * {
     margin: 0;
